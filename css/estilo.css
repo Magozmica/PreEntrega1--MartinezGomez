@@ -1,0 +1,16 @@
+img {
+    width: 150px;
+}
+
+p {
+    font-weight: bold;
+}
+
+.titulo {
+    color: #00BFFF; 
+}
+
+body {
+    background-color: black;
+    color: white; 
+}
